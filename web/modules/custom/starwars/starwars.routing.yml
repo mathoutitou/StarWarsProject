@@ -1,0 +1,9 @@
+
+starwars.add_poeple_form:
+  path: '/starwars/form/add_poeple'
+  defaults:
+    _form: '\Drupal\starwars\Form\AddPoepleForm'
+    _title: 'AddPoepleForm'
+  requirements:
+    _access: 'TRUE'
+  
