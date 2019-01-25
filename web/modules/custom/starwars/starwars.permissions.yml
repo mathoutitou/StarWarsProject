@@ -1,0 +1,68 @@
+add planet entity entities:
+  title: 'Create new Planet entity entities'
+
+administer planet entity entities:
+  title: 'Administer Planet entity entities'
+  description: 'Allow to access the administration form to configure Planet entity entities.'
+  restrict access: true
+
+delete planet entity entities:
+  title: 'Delete Planet entity entities'
+
+edit planet entity entities:
+  title: 'Edit Planet entity entities'
+
+view published planet entity entities:
+  title: 'View published Planet entity entities'
+
+view unpublished planet entity entities:
+  title: 'View unpublished Planet entity entities'
+
+view all planet entity revisions:
+  title: 'View all Planet entity revisions'
+
+revert all planet entity revisions:
+  title: 'Revert all Planet entity revisions'
+  description: 'Role requires permission <em>view Planet entity revisions</em> and <em>edit rights</em> for planet entity entities in question or <em>administer planet entity entities</em>.'
+
+delete all planet entity revisions:
+  title: 'Delete all revisions'
+  description: 'Role requires permission to <em>view Planet entity revisions</em> and <em>delete rights</em> for planet entity entities in question or <em>administer planet entity entities</em>.'
+add starship entity entities:
+  title: 'Create new Starship entity entities'
+
+administer starship entity entities:
+  title: 'Administer Starship entity entities'
+  description: 'Allow to access the administration form to configure Starship entity entities.'
+  restrict access: true
+
+delete starship entity entities:
+  title: 'Delete Starship entity entities'
+
+edit starship entity entities:
+  title: 'Edit Starship entity entities'
+
+view published starship entity entities:
+  title: 'View published Starship entity entities'
+
+view unpublished starship entity entities:
+  title: 'View unpublished Starship entity entities'
+add people entity entities:
+  title: 'Create new People entity entities'
+
+administer people entity entities:
+  title: 'Administer People entity entities'
+  description: 'Allow to access the administration form to configure People entity entities.'
+  restrict access: true
+
+delete people entity entities:
+  title: 'Delete People entity entities'
+
+edit people entity entities:
+  title: 'Edit People entity entities'
+
+view published people entity entities:
+  title: 'View published People entity entities'
+
+view unpublished people entity entities:
+  title: 'View unpublished People entity entities'

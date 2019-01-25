@@ -1,0 +1,14 @@
+{
+  "name": "drupal/starwars",
+  "type": "drupal-module",
+  "description": "Module Star Wars",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/starwars",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/starwars",
+    "source": "http://cgit.drupalcode.org/starwars"
+  },
+  "require": { }
+}

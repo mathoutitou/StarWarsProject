@@ -1,0 +1,15 @@
+entity.planet_entity.add_form:
+  route_name: entity.planet_entity.add_form
+  title: 'Add Planet entity'
+  appears_on:
+    - entity.planet_entity.collection
+entity.starship_entity.add_form:
+  route_name: entity.starship_entity.add_form
+  title: 'Add Starship entity'
+  appears_on:
+    - entity.starship_entity.collection
+entity.people_entity.add_form:
+  route_name: entity.people_entity.add_form
+  title: 'Add People entity'
+  appears_on:
+    - entity.people_entity.collection
